@@ -12,6 +12,7 @@ Install dependencies:
 Ensure you have Node.js installed. Then, install the required npm packages.
 
 npm install express fs
+
 Additionally, if you are using TypeScript for development, install the TypeScript compiler:
 
 npm install -g typescript
